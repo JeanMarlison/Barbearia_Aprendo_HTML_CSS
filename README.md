@@ -1,2 +1,2 @@
 # Barbearia_Aprendo_HTML_CSS
-Projeto de um site de Barbearia, para Aprender HTML e CSS
+Olá, pessoa que está verificando os meus repositórios, seja bem-vinda. Este repositório é para um site de uma barbearia, mas a intenção do site é fornecer apoio aos estudos básicos de HTML e CSS.
